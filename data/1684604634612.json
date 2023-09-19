@@ -1,0 +1,6665 @@
+{
+    "id": 1684604634612,
+    "urls": {
+      "kino-560": "red",
+      "showershower-636": "blue"
+    },
+    "names": {
+      "red": null,
+      "blue": null
+    },
+    "cells": [
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            0,
+            1
+          ],
+          "actual": "N",
+          "index": 1
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            0,
+            2
+          ],
+          "index": 2,
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            0,
+            3
+          ],
+          "index": 3,
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            0,
+            4
+          ],
+          "index": 4,
+          "actual": "S"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            5,
+            6
+          ],
+          "index": 5,
+          "actual": "C"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            5,
+            7
+          ],
+          "index": 6,
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            5,
+            8
+          ],
+          "index": 7,
+          "actual": "B"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            5,
+            9
+          ],
+          "index": 8,
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            5,
+            10
+          ],
+          "index": 9,
+          "actual": "E"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "red": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            11,
+            12
+          ],
+          "index": 10,
+          "actual": "B"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            11,
+            13
+          ],
+          "index": 11,
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            11,
+            14
+          ],
+          "index": 12,
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            11,
+            15
+          ],
+          "index": 13,
+          "actual": "S"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            1,
+            16
+          ],
+          "index": 14,
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            2,
+            16
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            3,
+            16
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            4,
+            16
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            6,
+            17
+          ],
+          "index": 15,
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            7,
+            17
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            8,
+            17
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            9,
+            17
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            10,
+            17
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "red": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            12,
+            18
+          ],
+          "index": 16,
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            18
+          ],
+          "actual": "H"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            14,
+            18
+          ],
+          "actual": "M"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            15,
+            18
+          ],
+          "actual": "S"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            1,
+            19
+          ],
+          "index": 17,
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            2,
+            19
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            3,
+            19
+          ],
+          "actual": "W"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            4,
+            19
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            19,
+            20
+          ],
+          "index": 18,
+          "actual": "C"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            6,
+            19
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            7,
+            19
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            8,
+            19
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            9,
+            19
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            10,
+            19
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "red": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            12,
+            21
+          ],
+          "index": 19,
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            21
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            14,
+            21
+          ],
+          "actual": "P"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            15,
+            21
+          ],
+          "actual": "D"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            1,
+            22
+          ],
+          "index": 20,
+          "actual": "H"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            2,
+            22
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            3,
+            22
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            4,
+            22
+          ],
+          "actual": "C"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            20,
+            22
+          ],
+          "actual": "H"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            6,
+            22
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "red": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            8,
+            23
+          ],
+          "index": 21,
+          "actual": "D"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            9,
+            23
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            10,
+            23
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            23,
+            24
+          ],
+          "index": 22,
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            12,
+            23
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            23
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            14,
+            23
+          ],
+          "actual": "M"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            15,
+            23
+          ],
+          "actual": "S"
+        }
+      ],
+      [
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "blue": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            4,
+            25
+          ],
+          "index": 23,
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            20,
+            25
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            6,
+            25
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            25,
+            26
+          ],
+          "index": 24,
+          "actual": "D"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            9,
+            27
+          ],
+          "index": 25,
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            10,
+            27
+          ],
+          "actual": "Y"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            24,
+            27
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            12,
+            27
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            27
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "red": true
+          }
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "red": true
+          }
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            28,
+            29
+          ],
+          "index": 26,
+          "actual": "F"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            28,
+            30
+          ],
+          "index": 27,
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            28,
+            31
+          ],
+          "index": 28,
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            4,
+            28
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            20,
+            28
+          ],
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            6,
+            28
+          ],
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            26,
+            28
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            28,
+            32
+          ],
+          "index": 29,
+          "actual": "P"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            10,
+            33
+          ],
+          "index": 30,
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            24,
+            33
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            12,
+            33
+          ],
+          "actual": "D"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            33
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            33,
+            34
+          ],
+          "index": 31,
+          "actual": "B"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            33,
+            35
+          ],
+          "index": 32,
+          "actual": "A"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            29,
+            36
+          ],
+          "index": 33,
+          "actual": "F"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            30,
+            36
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            36
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            4,
+            36
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            20,
+            36
+          ],
+          "actual": "K"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            26,
+            37
+          ],
+          "actual": "L",
+          "index": 34
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            32,
+            37
+          ],
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            37,
+            38
+          ],
+          "index": 35,
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            10,
+            37
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            24,
+            37
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "red": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            39
+          ],
+          "index": 36,
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            34,
+            39
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            35,
+            39
+          ],
+          "actual": "V"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            29,
+            40
+          ],
+          "index": 37,
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            30,
+            40
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            40
+          ],
+          "actual": "H"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            4,
+            40
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            41,
+            42
+          ],
+          "index": 38,
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            26,
+            41
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            32,
+            41
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            38,
+            41
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            10,
+            41
+          ],
+          "actual": "T"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            43,
+            44
+          ],
+          "index": 39,
+          "actual": "C"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            43
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            34,
+            43
+          ],
+          "actual": "D"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            35,
+            43
+          ],
+          "actual": "E"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            29,
+            45
+          ],
+          "index": 40,
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            30,
+            45
+          ],
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            45
+          ],
+          "actual": "M"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "blue": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            46,
+            47
+          ],
+          "index": 41,
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            42,
+            46
+          ],
+          "actual": "H"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            26,
+            46
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            32,
+            46
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            38,
+            46
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            48,
+            49
+          ],
+          "index": 42,
+          "actual": "M"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            44,
+            48
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            48
+          ],
+          "actual": "K"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            34,
+            48
+          ],
+          "actual": "P"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            35,
+            48
+          ],
+          "actual": "O"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            29,
+            50
+          ],
+          "index": 43,
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            30,
+            50
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            50
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            50,
+            51
+          ],
+          "index": 44,
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            47,
+            50
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            42,
+            50
+          ],
+          "actual": "Y"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            32,
+            52
+          ],
+          "index": 45,
+          "actual": "D"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            38,
+            52
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            52,
+            53
+          ],
+          "actual": "F",
+          "index": 46
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            49,
+            52
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            44,
+            52
+          ],
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "red": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            13,
+            52
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            34,
+            52
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            35,
+            52
+          ],
+          "actual": "S"
+        }
+      ],
+      [
+        {
+          "status": "wall",
+          "visible": {
+            "blue": true
+          }
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "blue": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            54
+          ],
+          "index": 47,
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            51,
+            54
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            47,
+            54
+          ],
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            42,
+            54
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            54,
+            55
+          ],
+          "index": 48,
+          "actual": "O"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            38,
+            56
+          ],
+          "index": 49,
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            53,
+            56
+          ],
+          "actual": "C"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            49,
+            56
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            44,
+            56
+          ],
+          "actual": "D"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "red": true
+          }
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            57,
+            58
+          ],
+          "index": 50,
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            57,
+            59
+          ],
+          "index": 51,
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            57
+          ],
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            51,
+            57
+          ],
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            47,
+            57
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            42,
+            57
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            55,
+            57
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            57,
+            60
+          ],
+          "index": 52,
+          "actual": "D"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "blue": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            53,
+            61
+          ],
+          "index": 53,
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            49,
+            61
+          ],
+          "actual": "U"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            44,
+            61
+          ],
+          "actual": "C"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            61,
+            62
+          ],
+          "index": 54,
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            61,
+            63
+          ],
+          "index": 55,
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            61,
+            64
+          ],
+          "index": 56,
+          "actual": "A"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            58,
+            65
+          ],
+          "index": 57,
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            59,
+            65
+          ],
+          "actual": "V"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            65
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            51,
+            65
+          ],
+          "actual": "H"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "blue": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            42,
+            66
+          ],
+          "index": 58,
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            55,
+            66
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            60,
+            66
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            66,
+            67
+          ],
+          "index": 59,
+          "actual": "T"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            53,
+            66
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            49,
+            66
+          ],
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            44,
+            66
+          ],
+          "actual": "L"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            62,
+            66
+          ],
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            63,
+            66
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            64,
+            66
+          ],
+          "actual": "G"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            58,
+            68
+          ],
+          "index": 60,
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            59,
+            68
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            68
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            51,
+            68
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "blue": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            42,
+            69
+          ],
+          "index": 61,
+          "actual": "D"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            55,
+            69
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            60,
+            69
+          ],
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            67,
+            69
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            53,
+            69
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            44,
+            70
+          ],
+          "index": 62,
+          "actual": "O"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            62,
+            70
+          ],
+          "actual": "R"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            63,
+            70
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            64,
+            70
+          ],
+          "actual": "I"
+        }
+      ],
+      [
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            58,
+            71
+          ],
+          "index": 63,
+          "actual": "I"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            59,
+            71
+          ],
+          "actual": "N"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            31,
+            71
+          ],
+          "actual": "A"
+        },
+        {
+          "status": "blank",
+          "visible": {
+            "blue": true
+          },
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            51,
+            71
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "wall",
+          "visible": {
+            "blue": true
+          }
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            42,
+            72
+          ],
+          "index": 64,
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            55,
+            72
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            60,
+            72
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            67,
+            72
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            53,
+            72
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "wall",
+          "visible": {}
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            44,
+            73
+          ],
+          "index": 65,
+          "actual": "D"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            62,
+            73
+          ],
+          "actual": "E"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            63,
+            73
+          ],
+          "actual": "S"
+        },
+        {
+          "status": "blank",
+          "visible": {},
+          "guess": {},
+          "timeout": {},
+          "clues": [
+            64,
+            73
+          ],
+          "actual": "L"
+        }
+      ]
+    ],
+    "clues": [
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 1,
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        "walls": [
+          [
+            0,
+            4
+          ]
+        ],
+        "visible": {},
+        "text": "Small carps"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 1,
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            0
+          ]
+        ],
+        "visible": {},
+        "text": "Ontario river"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 2,
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            1
+          ]
+        ],
+        "visible": {},
+        "text": "M"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 3,
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            2
+          ]
+        ],
+        "visible": {},
+        "text": "Village"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 4,
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            5,
+            3
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            3
+          ]
+        ],
+        "walls": [
+          [
+            8,
+            3
+          ]
+        ],
+        "visible": {},
+        "text": "Writer Upton"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 5,
+        "cells": [
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            6
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            0,
+            8
+          ],
+          [
+            0,
+            9
+          ]
+        ],
+        "walls": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "Train trailer"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 5,
+        "cells": [
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            5
+          ]
+        ],
+        "walls": [
+          [
+            6,
+            5
+          ]
+        ],
+        "visible": {},
+        "text": "Gas station item."
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 6,
+        "cells": [
+          [
+            0,
+            6
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "walls": [
+          [
+            3,
+            6
+          ]
+        ],
+        "visible": {},
+        "text": "\"__ was saying...\""
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 7,
+        "cells": [
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            3,
+            7
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            7
+          ]
+        ],
+        "visible": {},
+        "text": "Talked above one's pay grade, for short"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 8,
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            4,
+            8
+          ]
+        ],
+        "walls": [
+          [
+            5,
+            8
+          ]
+        ],
+        "visible": {},
+        "text": "Sensitive areas"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 9,
+        "cells": [
+          [
+            0,
+            9
+          ],
+          [
+            1,
+            9
+          ],
+          [
+            2,
+            9
+          ],
+          [
+            3,
+            9
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            5,
+            9
+          ],
+          [
+            6,
+            9
+          ],
+          [
+            7,
+            9
+          ]
+        ],
+        "walls": [
+          [
+            8,
+            9
+          ]
+        ],
+        "visible": {},
+        "text": "Bacon, for one"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 10,
+        "cells": [
+          [
+            0,
+            11
+          ],
+          [
+            0,
+            12
+          ],
+          [
+            0,
+            13
+          ],
+          [
+            0,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            0,
+            10
+          ]
+        ],
+        "visible": {
+          "red": true
+        },
+        "text": "Agr. degrees"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 10,
+        "cells": [
+          [
+            0,
+            11
+          ],
+          [
+            1,
+            11
+          ],
+          [
+            2,
+            11
+          ],
+          [
+            3,
+            11
+          ],
+          [
+            4,
+            11
+          ],
+          [
+            5,
+            11
+          ]
+        ],
+        "walls": [
+          [
+            6,
+            11
+          ]
+        ],
+        "visible": {
+          "red": true
+        },
+        "text": "\"Ruggles of Red Gap\" actress"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 11,
+        "cells": [
+          [
+            0,
+            12
+          ],
+          [
+            1,
+            12
+          ],
+          [
+            2,
+            12
+          ],
+          [
+            3,
+            12
+          ],
+          [
+            4,
+            12
+          ],
+          [
+            5,
+            12
+          ],
+          [
+            6,
+            12
+          ],
+          [
+            7,
+            12
+          ],
+          [
+            8,
+            12
+          ],
+          [
+            9,
+            12
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            12
+          ]
+        ],
+        "visible": {
+          "red": true
+        },
+        "text": "See 20 Across."
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 12,
+        "cells": [
+          [
+            0,
+            13
+          ],
+          [
+            1,
+            13
+          ],
+          [
+            2,
+            13
+          ],
+          [
+            3,
+            13
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            13
+          ]
+        ],
+        "visible": {
+          "red": true
+        },
+        "text": "Clock-setting button, and the theme of the puzzle"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 13,
+        "cells": [
+          [
+            0,
+            14
+          ],
+          [
+            1,
+            14
+          ],
+          [
+            2,
+            14
+          ],
+          [
+            3,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            14
+          ]
+        ],
+        "visible": {
+          "red": true
+        },
+        "text": "Theology degrees: Abbr."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 14,
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        "walls": [
+          [
+            1,
+            4
+          ]
+        ],
+        "visible": {},
+        "text": "Arabian Nights' total"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 15,
+        "cells": [
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            1,
+            9
+          ]
+        ],
+        "walls": [
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "Ancient Greek seaport visited by St. Paul."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 16,
+        "cells": [
+          [
+            1,
+            11
+          ],
+          [
+            1,
+            12
+          ],
+          [
+            1,
+            13
+          ],
+          [
+            1,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            1,
+            10
+          ]
+        ],
+        "visible": {
+          "red": true
+        },
+        "text": "___ law (1840's discovery)"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 17,
+        "cells": [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            2,
+            9
+          ]
+        ],
+        "walls": [
+          [
+            2,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "Original newscasters."
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 18,
+        "cells": [
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            4
+          ]
+        ],
+        "walls": [
+          [
+            1,
+            4
+          ],
+          [
+            7,
+            4
+          ]
+        ],
+        "visible": {},
+        "text": "Pool aid"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 19,
+        "cells": [
+          [
+            2,
+            11
+          ],
+          [
+            2,
+            12
+          ],
+          [
+            2,
+            13
+          ],
+          [
+            2,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            2,
+            10
+          ]
+        ],
+        "visible": {
+          "red": true
+        },
+        "text": "\"Dragnet\" org."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 20,
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            5
+          ]
+        ],
+        "walls": [
+          [
+            3,
+            6
+          ]
+        ],
+        "visible": {},
+        "text": "Head __"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 21,
+        "cells": [
+          [
+            3,
+            7
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            3,
+            9
+          ],
+          [
+            3,
+            10
+          ],
+          [
+            3,
+            11
+          ],
+          [
+            3,
+            12
+          ],
+          [
+            3,
+            13
+          ],
+          [
+            3,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            3,
+            6
+          ]
+        ],
+        "visible": {
+          "red": true
+        },
+        "text": "*Sell weaponry"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 22,
+        "cells": [
+          [
+            3,
+            10
+          ],
+          [
+            4,
+            10
+          ],
+          [
+            5,
+            10
+          ],
+          [
+            6,
+            10
+          ]
+        ],
+        "walls": [
+          [
+            2,
+            10
+          ],
+          [
+            7,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "\"Stormy Weather\" singer Horne"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 23,
+        "cells": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            4,
+            6
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            7
+          ]
+        ],
+        "visible": {},
+        "text": "Put down, as tiles"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 24,
+        "cells": [
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ]
+        ],
+        "walls": [
+          [
+            3,
+            6
+          ],
+          [
+            9,
+            6
+          ]
+        ],
+        "visible": {},
+        "text": "Swedish physicist, Nobel Prize 1912."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 25,
+        "cells": [
+          [
+            4,
+            8
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            4,
+            10
+          ],
+          [
+            4,
+            11
+          ],
+          [
+            4,
+            12
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            7
+          ],
+          [
+            4,
+            13
+          ]
+        ],
+        "visible": {},
+        "text": "Ancient name of Aswan."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 26,
+        "cells": [
+          [
+            5,
+            0
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            2
+          ],
+          [
+            5,
+            3
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+        "walls": [
+          [
+            5,
+            8
+          ]
+        ],
+        "visible": {},
+        "text": "Auto-race climax"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 26,
+        "cells": [
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            7,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            9,
+            0
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ],
+        "visible": {},
+        "text": "E's equivalent, in music"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 27,
+        "cells": [
+          [
+            5,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            9,
+            1
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            1
+          ],
+          [
+            10,
+            1
+          ]
+        ],
+        "visible": {},
+        "text": "Ab ___ (from an angry man)"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 28,
+        "cells": [
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            9,
+            2
+          ],
+          [
+            10,
+            2
+          ],
+          [
+            11,
+            2
+          ],
+          [
+            12,
+            2
+          ],
+          [
+            13,
+            2
+          ],
+          [
+            14,
+            2
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            2
+          ]
+        ],
+        "visible": {
+          "blue": true
+        },
+        "text": "\"Ain't Helena the capital of Idaho?\" reply?"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 29,
+        "cells": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            7
+          ],
+          [
+            10,
+            7
+          ]
+        ],
+        "visible": {},
+        "text": "Worked at steadily."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 30,
+        "cells": [
+          [
+            5,
+            9
+          ],
+          [
+            5,
+            10
+          ],
+          [
+            5,
+            11
+          ],
+          [
+            5,
+            12
+          ],
+          [
+            5,
+            13
+          ],
+          [
+            5,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            5,
+            8
+          ]
+        ],
+        "visible": {},
+        "text": "South African native council"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 31,
+        "cells": [
+          [
+            5,
+            13
+          ],
+          [
+            6,
+            13
+          ],
+          [
+            7,
+            13
+          ],
+          [
+            8,
+            13
+          ],
+          [
+            9,
+            13
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            13
+          ],
+          [
+            10,
+            13
+          ]
+        ],
+        "visible": {},
+        "text": "Corp. woe"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 32,
+        "cells": [
+          [
+            5,
+            14
+          ],
+          [
+            6,
+            14
+          ],
+          [
+            7,
+            14
+          ],
+          [
+            8,
+            14
+          ],
+          [
+            9,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            4,
+            14
+          ],
+          [
+            10,
+            14
+          ]
+        ],
+        "visible": {},
+        "text": "Some Chevy hatchbacks"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 33,
+        "cells": [
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            6,
+            4
+          ]
+        ],
+        "walls": [
+          [
+            6,
+            5
+          ]
+        ],
+        "visible": {},
+        "text": "Scottish flattery"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 34,
+        "cells": [
+          [
+            6,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            6,
+            9
+          ],
+          [
+            6,
+            10
+          ]
+        ],
+        "walls": [
+          [
+            6,
+            5
+          ],
+          [
+            6,
+            11
+          ]
+        ],
+        "visible": {},
+        "text": "2010 Literature Nobelist Mario Vargas __"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 35,
+        "cells": [
+          [
+            6,
+            8
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            10,
+            8
+          ]
+        ],
+        "walls": [
+          [
+            5,
+            8
+          ],
+          [
+            11,
+            8
+          ]
+        ],
+        "visible": {},
+        "text": "Dutch physicist, Nobelist of 1913."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 36,
+        "cells": [
+          [
+            6,
+            12
+          ],
+          [
+            6,
+            13
+          ],
+          [
+            6,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            6,
+            11
+          ]
+        ],
+        "visible": {},
+        "text": "W.C."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 37,
+        "cells": [
+          [
+            7,
+            0
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            3
+          ]
+        ],
+        "walls": [
+          [
+            7,
+            4
+          ]
+        ],
+        "visible": {},
+        "text": "Cowardly Lion portrayer"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 38,
+        "cells": [
+          [
+            7,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            7,
+            9
+          ]
+        ],
+        "walls": [
+          [
+            7,
+            4
+          ],
+          [
+            7,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "Complexion: Fr."
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 38,
+        "cells": [
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            9,
+            5
+          ],
+          [
+            10,
+            5
+          ],
+          [
+            11,
+            5
+          ],
+          [
+            12,
+            5
+          ],
+          [
+            13,
+            5
+          ],
+          [
+            14,
+            5
+          ]
+        ],
+        "walls": [
+          [
+            6,
+            5
+          ]
+        ],
+        "visible": {},
+        "text": "Certain ductless glands."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 39,
+        "cells": [
+          [
+            7,
+            11
+          ],
+          [
+            7,
+            12
+          ],
+          [
+            7,
+            13
+          ],
+          [
+            7,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            7,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "2003 Derby winner Funny __"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 39,
+        "cells": [
+          [
+            7,
+            11
+          ],
+          [
+            8,
+            11
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            13,
+            11
+          ],
+          [
+            14,
+            11
+          ]
+        ],
+        "walls": [
+          [
+            6,
+            11
+          ]
+        ],
+        "visible": {},
+        "text": "Oaf in winter?"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 40,
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            8,
+            2
+          ]
+        ],
+        "walls": [
+          [
+            8,
+            3
+          ]
+        ],
+        "visible": {},
+        "text": "It can help if you're short"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 41,
+        "cells": [
+          [
+            8,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            8
+          ]
+        ],
+        "walls": [
+          [
+            8,
+            3
+          ],
+          [
+            8,
+            9
+          ]
+        ],
+        "visible": {},
+        "text": "Divine: Ger."
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 41,
+        "cells": [
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            10,
+            4
+          ],
+          [
+            11,
+            4
+          ]
+        ],
+        "walls": [
+          [
+            7,
+            4
+          ],
+          [
+            12,
+            4
+          ]
+        ],
+        "visible": {},
+        "text": "Regarding"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 42,
+        "cells": [
+          [
+            8,
+            10
+          ],
+          [
+            8,
+            11
+          ],
+          [
+            8,
+            12
+          ],
+          [
+            8,
+            13
+          ],
+          [
+            8,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            8,
+            9
+          ]
+        ],
+        "visible": {},
+        "text": "Korean port"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 42,
+        "cells": [
+          [
+            8,
+            10
+          ],
+          [
+            9,
+            10
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            12,
+            10
+          ]
+        ],
+        "walls": [
+          [
+            7,
+            10
+          ],
+          [
+            13,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "A feline sound"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 43,
+        "cells": [
+          [
+            9,
+            0
+          ],
+          [
+            9,
+            1
+          ],
+          [
+            9,
+            2
+          ],
+          [
+            9,
+            3
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            9,
+            5
+          ]
+        ],
+        "walls": [
+          [
+            9,
+            6
+          ]
+        ],
+        "visible": {},
+        "text": "Foot, affectionately"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 44,
+        "cells": [
+          [
+            9,
+            3
+          ],
+          [
+            10,
+            3
+          ],
+          [
+            11,
+            3
+          ],
+          [
+            12,
+            3
+          ],
+          [
+            13,
+            3
+          ],
+          [
+            14,
+            3
+          ]
+        ],
+        "walls": [
+          [
+            8,
+            3
+          ]
+        ],
+        "visible": {
+          "blue": true
+        },
+        "text": "Tenth parts."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 45,
+        "cells": [
+          [
+            9,
+            7
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            9,
+            9
+          ],
+          [
+            9,
+            10
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            9,
+            12
+          ],
+          [
+            9,
+            13
+          ],
+          [
+            9,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            9,
+            6
+          ]
+        ],
+        "visible": {},
+        "text": "Corrupters"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 46,
+        "cells": [
+          [
+            9,
+            9
+          ],
+          [
+            10,
+            9
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            13,
+            9
+          ],
+          [
+            14,
+            9
+          ]
+        ],
+        "walls": [
+          [
+            8,
+            9
+          ]
+        ],
+        "visible": {},
+        "text": "Old mailing category that included library books"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 47,
+        "cells": [
+          [
+            10,
+            2
+          ],
+          [
+            10,
+            3
+          ],
+          [
+            10,
+            4
+          ],
+          [
+            10,
+            5
+          ],
+          [
+            10,
+            6
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            1
+          ],
+          [
+            10,
+            7
+          ]
+        ],
+        "visible": {},
+        "text": "Explosive stuff"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 48,
+        "cells": [
+          [
+            10,
+            6
+          ],
+          [
+            11,
+            6
+          ],
+          [
+            12,
+            6
+          ],
+          [
+            13,
+            6
+          ],
+          [
+            14,
+            6
+          ]
+        ],
+        "walls": [
+          [
+            9,
+            6
+          ]
+        ],
+        "visible": {},
+        "text": "Combining forms for \"wine.\""
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 49,
+        "cells": [
+          [
+            10,
+            8
+          ],
+          [
+            10,
+            9
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            10,
+            11
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            7
+          ],
+          [
+            10,
+            12
+          ]
+        ],
+        "visible": {},
+        "text": "Warm-water fish"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 50,
+        "cells": [
+          [
+            11,
+            0
+          ],
+          [
+            11,
+            1
+          ],
+          [
+            11,
+            2
+          ],
+          [
+            11,
+            3
+          ],
+          [
+            11,
+            4
+          ],
+          [
+            11,
+            5
+          ],
+          [
+            11,
+            6
+          ],
+          [
+            11,
+            7
+          ]
+        ],
+        "walls": [
+          [
+            11,
+            8
+          ]
+        ],
+        "visible": {
+          "blue": true
+        },
+        "text": "Like some sailors"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 50,
+        "cells": [
+          [
+            11,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            13,
+            0
+          ],
+          [
+            14,
+            0
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            0
+          ]
+        ],
+        "visible": {
+          "blue": true
+        },
+        "text": "Actress Hatcher"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 51,
+        "cells": [
+          [
+            11,
+            1
+          ],
+          [
+            12,
+            1
+          ],
+          [
+            13,
+            1
+          ],
+          [
+            14,
+            1
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            1
+          ]
+        ],
+        "visible": {
+          "blue": true
+        },
+        "text": "Caucasian language"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 52,
+        "cells": [
+          [
+            11,
+            7
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            13,
+            7
+          ],
+          [
+            14,
+            7
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            7
+          ]
+        ],
+        "visible": {},
+        "text": "Medals"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 53,
+        "cells": [
+          [
+            11,
+            9
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            11,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            11,
+            8
+          ]
+        ],
+        "visible": {},
+        "text": "Town W. of Foggia."
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 54,
+        "cells": [
+          [
+            11,
+            12
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            14,
+            12
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            12
+          ]
+        ],
+        "visible": {},
+        "text": "Ireland"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 55,
+        "cells": [
+          [
+            11,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            13,
+            13
+          ],
+          [
+            14,
+            13
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            13
+          ]
+        ],
+        "visible": {},
+        "text": "Genetic substances"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 56,
+        "cells": [
+          [
+            11,
+            14
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            13,
+            14
+          ],
+          [
+            14,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            10,
+            14
+          ]
+        ],
+        "visible": {},
+        "text": "Spry, in Baza"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 57,
+        "cells": [
+          [
+            12,
+            0
+          ],
+          [
+            12,
+            1
+          ],
+          [
+            12,
+            2
+          ],
+          [
+            12,
+            3
+          ]
+        ],
+        "walls": [
+          [
+            12,
+            4
+          ]
+        ],
+        "visible": {
+          "blue": true
+        },
+        "text": "\"Well Did You __?\""
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 58,
+        "cells": [
+          [
+            12,
+            5
+          ],
+          [
+            12,
+            6
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            12,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            12,
+            4
+          ]
+        ],
+        "visible": {},
+        "text": "Inducting"
+      },
+      {
+        "status": "open",
+        "dir": "down",
+        "index": 59,
+        "cells": [
+          [
+            12,
+            8
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            14,
+            8
+          ]
+        ],
+        "walls": [
+          [
+            11,
+            8
+          ]
+        ],
+        "visible": {},
+        "text": "Fund officials: Abbr."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 60,
+        "cells": [
+          [
+            13,
+            0
+          ],
+          [
+            13,
+            1
+          ],
+          [
+            13,
+            2
+          ],
+          [
+            13,
+            3
+          ]
+        ],
+        "walls": [
+          [
+            13,
+            4
+          ]
+        ],
+        "visible": {
+          "blue": true
+        },
+        "text": "Jargon of sounds"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 61,
+        "cells": [
+          [
+            13,
+            5
+          ],
+          [
+            13,
+            6
+          ],
+          [
+            13,
+            7
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            13,
+            9
+          ]
+        ],
+        "walls": [
+          [
+            13,
+            4
+          ],
+          [
+            13,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "Way-out swingers?"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 62,
+        "cells": [
+          [
+            13,
+            11
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            13,
+            13
+          ],
+          [
+            13,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            13,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "Town in N India"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 63,
+        "cells": [
+          [
+            14,
+            0
+          ],
+          [
+            14,
+            1
+          ],
+          [
+            14,
+            2
+          ],
+          [
+            14,
+            3
+          ]
+        ],
+        "walls": [
+          [
+            14,
+            4
+          ]
+        ],
+        "visible": {
+          "blue": true
+        },
+        "text": "___ much as."
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 64,
+        "cells": [
+          [
+            14,
+            5
+          ],
+          [
+            14,
+            6
+          ],
+          [
+            14,
+            7
+          ],
+          [
+            14,
+            8
+          ],
+          [
+            14,
+            9
+          ]
+        ],
+        "walls": [
+          [
+            14,
+            4
+          ],
+          [
+            14,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "Radiator noise"
+      },
+      {
+        "status": "open",
+        "dir": "across",
+        "index": 65,
+        "cells": [
+          [
+            14,
+            11
+          ],
+          [
+            14,
+            12
+          ],
+          [
+            14,
+            13
+          ],
+          [
+            14,
+            14
+          ]
+        ],
+        "walls": [
+          [
+            14,
+            10
+          ]
+        ],
+        "visible": {},
+        "text": "Lit. D., in France"
+      }
+    ],
+    "log": [
+      {
+        "time": 1684604630636,
+        "events": [
+          {
+            "type": "clue",
+            "id": 11,
+            "clue": {
+              "status": "open",
+              "dir": "across",
+              "index": 10,
+              "cells": [
+                [
+                  0,
+                  11
+                ],
+                [
+                  0,
+                  12
+                ],
+                [
+                  0,
+                  13
+                ],
+                [
+                  0,
+                  14
+                ]
+              ],
+              "text": "Agr. degrees"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 0,
+            "x": 11,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                11,
+                12
+              ],
+              "index": 10
+            }
+          },
+          {
+            "type": "cell",
+            "y": 0,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                11,
+                13
+              ],
+              "index": 11
+            }
+          },
+          {
+            "type": "cell",
+            "y": 0,
+            "x": 13,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                11,
+                14
+              ],
+              "index": 12
+            }
+          },
+          {
+            "type": "cell",
+            "y": 0,
+            "x": 14,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                11,
+                15
+              ],
+              "index": 13
+            }
+          },
+          {
+            "type": "cell",
+            "y": 0,
+            "x": 10,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 12,
+            "clue": {
+              "status": "open",
+              "dir": "down",
+              "index": 10,
+              "cells": [
+                [
+                  0,
+                  11
+                ],
+                [
+                  1,
+                  11
+                ],
+                [
+                  2,
+                  11
+                ],
+                [
+                  3,
+                  11
+                ],
+                [
+                  4,
+                  11
+                ],
+                [
+                  5,
+                  11
+                ]
+              ],
+              "text": "\"Ruggles of Red Gap\" actress"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 1,
+            "x": 11,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                12,
+                18
+              ],
+              "index": 16
+            }
+          },
+          {
+            "type": "cell",
+            "y": 2,
+            "x": 11,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                12,
+                21
+              ],
+              "index": 19
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 11,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                12,
+                23
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 4,
+            "x": 11,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                12,
+                27
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 5,
+            "x": 11,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                12,
+                33
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 6,
+            "x": 11,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 13,
+            "clue": {
+              "status": "open",
+              "dir": "down",
+              "index": 11,
+              "cells": [
+                [
+                  0,
+                  12
+                ],
+                [
+                  1,
+                  12
+                ],
+                [
+                  2,
+                  12
+                ],
+                [
+                  3,
+                  12
+                ],
+                [
+                  4,
+                  12
+                ],
+                [
+                  5,
+                  12
+                ],
+                [
+                  6,
+                  12
+                ],
+                [
+                  7,
+                  12
+                ],
+                [
+                  8,
+                  12
+                ],
+                [
+                  9,
+                  12
+                ]
+              ],
+              "text": "See 20 Across."
+            }
+          },
+          {
+            "type": "cell",
+            "y": 1,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                18
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 2,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                21
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                23
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 4,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                27
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 5,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                33
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 6,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                39
+              ],
+              "index": 36
+            }
+          },
+          {
+            "type": "cell",
+            "y": 7,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                43
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 8,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                48
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 9,
+            "x": 12,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                13,
+                52
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 10,
+            "x": 12,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 14,
+            "clue": {
+              "status": "open",
+              "dir": "down",
+              "index": 12,
+              "cells": [
+                [
+                  0,
+                  13
+                ],
+                [
+                  1,
+                  13
+                ],
+                [
+                  2,
+                  13
+                ],
+                [
+                  3,
+                  13
+                ]
+              ],
+              "text": "Clock-setting button, and the theme of the puzzle"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 1,
+            "x": 13,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                14,
+                18
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 2,
+            "x": 13,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                14,
+                21
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 13,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                14,
+                23
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 4,
+            "x": 13,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 15,
+            "clue": {
+              "status": "open",
+              "dir": "down",
+              "index": 13,
+              "cells": [
+                [
+                  0,
+                  14
+                ],
+                [
+                  1,
+                  14
+                ],
+                [
+                  2,
+                  14
+                ],
+                [
+                  3,
+                  14
+                ]
+              ],
+              "text": "Theology degrees: Abbr."
+            }
+          },
+          {
+            "type": "cell",
+            "y": 1,
+            "x": 14,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                15,
+                18
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 2,
+            "x": 14,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                15,
+                21
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 14,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                15,
+                23
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 4,
+            "x": 14,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 18,
+            "clue": {
+              "status": "open",
+              "dir": "across",
+              "index": 16,
+              "cells": [
+                [
+                  1,
+                  11
+                ],
+                [
+                  1,
+                  12
+                ],
+                [
+                  1,
+                  13
+                ],
+                [
+                  1,
+                  14
+                ]
+              ],
+              "text": "___ law (1840's discovery)"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 1,
+            "x": 10,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 21,
+            "clue": {
+              "status": "open",
+              "dir": "across",
+              "index": 19,
+              "cells": [
+                [
+                  2,
+                  11
+                ],
+                [
+                  2,
+                  12
+                ],
+                [
+                  2,
+                  13
+                ],
+                [
+                  2,
+                  14
+                ]
+              ],
+              "text": "\"Dragnet\" org."
+            }
+          },
+          {
+            "type": "cell",
+            "y": 2,
+            "x": 10,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 23,
+            "clue": {
+              "status": "open",
+              "dir": "across",
+              "index": 21,
+              "cells": [
+                [
+                  3,
+                  7
+                ],
+                [
+                  3,
+                  8
+                ],
+                [
+                  3,
+                  9
+                ],
+                [
+                  3,
+                  10
+                ],
+                [
+                  3,
+                  11
+                ],
+                [
+                  3,
+                  12
+                ],
+                [
+                  3,
+                  13
+                ],
+                [
+                  3,
+                  14
+                ]
+              ],
+              "text": "*Sell weaponry"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 7,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                8,
+                23
+              ],
+              "index": 21
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 8,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                9,
+                23
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 9,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                10,
+                23
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 10,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                23,
+                24
+              ],
+              "index": 22
+            }
+          },
+          {
+            "type": "cell",
+            "y": 3,
+            "x": 6,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 57,
+            "clue": {
+              "status": "open",
+              "dir": "across",
+              "index": 50,
+              "cells": [
+                [
+                  11,
+                  0
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  11,
+                  3
+                ],
+                [
+                  11,
+                  4
+                ],
+                [
+                  11,
+                  5
+                ],
+                [
+                  11,
+                  6
+                ],
+                [
+                  11,
+                  7
+                ]
+              ],
+              "text": "Like some sailors"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 0,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                57,
+                58
+              ],
+              "index": 50
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 1,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                57,
+                59
+              ],
+              "index": 51
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                57
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 3,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                51,
+                57
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 4,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                47,
+                57
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 5,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                42,
+                57
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 6,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                55,
+                57
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 7,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                57,
+                60
+              ],
+              "index": 52
+            }
+          },
+          {
+            "type": "cell",
+            "y": 11,
+            "x": 8,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 58,
+            "clue": {
+              "status": "open",
+              "dir": "down",
+              "index": 50,
+              "cells": [
+                [
+                  11,
+                  0
+                ],
+                [
+                  12,
+                  0
+                ],
+                [
+                  13,
+                  0
+                ],
+                [
+                  14,
+                  0
+                ]
+              ],
+              "text": "Actress Hatcher"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 12,
+            "x": 0,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                58,
+                65
+              ],
+              "index": 57
+            }
+          },
+          {
+            "type": "cell",
+            "y": 13,
+            "x": 0,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                58,
+                68
+              ],
+              "index": 60
+            }
+          },
+          {
+            "type": "cell",
+            "y": 14,
+            "x": 0,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                58,
+                71
+              ],
+              "index": 63
+            }
+          },
+          {
+            "type": "cell",
+            "y": 10,
+            "x": 0,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 65,
+            "clue": {
+              "status": "open",
+              "dir": "across",
+              "index": 57,
+              "cells": [
+                [
+                  12,
+                  0
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  12,
+                  3
+                ]
+              ],
+              "text": "\"Well Did You __?\""
+            }
+          },
+          {
+            "type": "cell",
+            "y": 12,
+            "x": 1,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                59,
+                65
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 12,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                65
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 12,
+            "x": 3,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                51,
+                65
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 12,
+            "x": 4,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 68,
+            "clue": {
+              "status": "open",
+              "dir": "across",
+              "index": 60,
+              "cells": [
+                [
+                  13,
+                  0
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  13,
+                  3
+                ]
+              ],
+              "text": "Jargon of sounds"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 13,
+            "x": 1,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                59,
+                68
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 13,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                68
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 13,
+            "x": 3,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                51,
+                68
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 13,
+            "x": 4,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 71,
+            "clue": {
+              "status": "open",
+              "dir": "across",
+              "index": 63,
+              "cells": [
+                [
+                  14,
+                  0
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  14,
+                  3
+                ]
+              ],
+              "text": "___ much as."
+            }
+          },
+          {
+            "type": "cell",
+            "y": 14,
+            "x": 1,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                59,
+                71
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 14,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                71
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 14,
+            "x": 3,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                51,
+                71
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 14,
+            "x": 4,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 59,
+            "clue": {
+              "status": "open",
+              "dir": "down",
+              "index": 51,
+              "cells": [
+                [
+                  11,
+                  1
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  14,
+                  1
+                ]
+              ],
+              "text": "Caucasian language"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 10,
+            "x": 1,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 31,
+            "clue": {
+              "status": "open",
+              "dir": "down",
+              "index": 28,
+              "cells": [
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "text": "\"Ain't Helena the capital of Idaho?\" reply?"
+            }
+          },
+          {
+            "type": "cell",
+            "y": 5,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                28,
+                31
+              ],
+              "index": 28
+            }
+          },
+          {
+            "type": "cell",
+            "y": 6,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                36
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 7,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                40
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 8,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                45
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 9,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                50
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 10,
+            "x": 2,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                31,
+                54
+              ],
+              "index": 47
+            }
+          },
+          {
+            "type": "cell",
+            "y": 4,
+            "x": 2,
+            "cell": {
+              "status": "wall"
+            }
+          },
+          {
+            "type": "clue",
+            "id": 51,
+            "clue": {
+              "status": "open",
+              "dir": "down",
+              "index": 44,
+              "cells": [
+                [
+                  9,
+                  3
+                ],
+                [
+                  10,
+                  3
+                ],
+                [
+                  11,
+                  3
+                ],
+                [
+                  12,
+                  3
+                ],
+                [
+                  13,
+                  3
+                ],
+                [
+                  14,
+                  3
+                ]
+              ],
+              "text": "Tenth parts."
+            }
+          },
+          {
+            "type": "cell",
+            "y": 9,
+            "x": 3,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                50,
+                51
+              ],
+              "index": 44
+            }
+          },
+          {
+            "type": "cell",
+            "y": 10,
+            "x": 3,
+            "cell": {
+              "status": "blank",
+              "clues": [
+                51,
+                54
+              ]
+            }
+          },
+          {
+            "type": "cell",
+            "y": 8,
+            "x": 3,
+            "cell": {
+              "status": "wall"
+            }
+          }
+        ]
+      }
+    ],
+    "hints": {
+      "red": {
+        "count": 0,
+        "time": 0
+      },
+      "blue": {
+        "count": 0,
+        "time": 0
+      }
+    },
+    "score": {
+      "red": 0,
+      "blue": 0
+    },
+    "total": 193,
+    "phase": "created",
+    "time": 900000
+  }
